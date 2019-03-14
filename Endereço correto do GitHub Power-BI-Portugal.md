@@ -1,0 +1,1 @@
+Os repositórios do Git estão em https://github.com/powerbi-portugal
